@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rubikregular">regular</string>
+    <string name="rubikbold">bold</string>
+    <string name="rubiklight">light</string>
+</resources>
